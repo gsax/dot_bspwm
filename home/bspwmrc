@@ -3,7 +3,6 @@
 $HOME/.config/polybar/launch.sh
 
 bspc monitor LVDS1 -d ༡ ༢ ༣ ༤ ༥ ༦ ༧ ༨ ༩ ༳
-bspc monitor VGA1 -r
 
 bspc config border_width        1
 bspc config window_gap          0
